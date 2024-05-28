@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\HP Pavilion 15\Documents\assignment\Project1\Project1\Catalogue.h(79,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP Pavilion 15\Documents\assignment\Project1\Project1\Inventory.h(50,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP Pavilion 15\Documents\assignment\Project1\Project1\Cart.h(32,8): warning C4101: 'str8': unreferenced local variable
+  Project1.vcxproj -> C:\Users\HP Pavilion 15\Documents\assignment\Project1\x64\Debug\Project1.exe
